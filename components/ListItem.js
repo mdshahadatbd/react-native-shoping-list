@@ -6,6 +6,7 @@ import {
   TouchableOpacity,
   TextInput,
 } from 'react-native';
+
 import Icon from 'react-native-vector-icons/dist/FontAwesome';
 
 const ListItem = ({
